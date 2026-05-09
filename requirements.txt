@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+openai-whisper
+pytesseract
+pillow
+gtts
+torch
