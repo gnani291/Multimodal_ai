@@ -59,7 +59,7 @@ if audio_file is not None:
 
         st.write(speech_text)
 
-
+#text extraction (OCR)
 st.header("3. Image Text Extraction")
 
 image_file = st.file_uploader(
