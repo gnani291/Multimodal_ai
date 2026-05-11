@@ -32,7 +32,7 @@ if st.button("Download Video"):
 
     st.success("Video Downloaded Successfully")
 
-
+# speech recognoisation(speech to text)
 st.header("2. Speech Recognition")
 
 audio_file = st.file_uploader(
