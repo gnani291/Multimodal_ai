@@ -6,7 +6,6 @@ import pytesseract
 from PIL import Image
 from gtts import gTTS
 
-
 st.title("AI Multimedia Project")
 
 st.write(
