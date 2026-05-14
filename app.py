@@ -7,7 +7,6 @@ from PIL import Image
 from gtts import gTTS
 
 st.title("AI Multimedia Project")
-
 st.write(
     "YouTube Download + Speech Recognition + OCR + Text To Speech"
 )
