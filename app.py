@@ -3,6 +3,7 @@ import yt_dlp
 import whisper
 import pytesseract
 
+
 from PIL import Image
 from gtts import gTTS
 
